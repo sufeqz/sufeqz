@@ -26,8 +26,8 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 How to Reach Me
 
-- [GitHub](https://github.com/your-github-sufeqz)
-- [Email](absusak@gmail.com)
+- [GitHub] (https://github.com/your-github-sufeqz)
+- [Email] (absusak@gmail.com)
 
 ---
 
