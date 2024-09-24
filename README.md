@@ -4,7 +4,7 @@ I'm a business student with a passion for coding! I love building applications t
 
 ## 🚀 About Me
 
-- 🎓 Currently studying business while diving deep into the world of programming.
+- 🎓 Currently studying BBA at University of London ( Royal Holloway ) while diving deep into the world of programming.
 - 💻 Self-taught coder with a keen interest in full-stack development.
 - 🌱 Always learning something new, whether it's a new language, framework, or tool.
 
@@ -12,9 +12,9 @@ I'm a business student with a passion for coding! I love building applications t
 
 Here are some of the technologies and tools I work with:
 
-- **Languages**: JavaScript (ES6+), Python
+- **Languages**: JavaScript (ES6+), Python, Php
 - **Frontend**: React.js
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Express.js, Laravel
 - **Databases**: PostgreSQL, MySQL
 - **Others**: Git, REST APIs
 
